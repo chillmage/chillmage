@@ -1,4 +1,4 @@
-- 👋 ¡Hola! 你好!， salamat datang y bienvenue! 
+- 👋 Mabuhay! 你好，¡hola! y bienvenue! 
 - @ chillmage here coming to you live from a data centre abstractly related to my physical location.
 - 👀 Am an academic in New Media, with a tendency to MEVN.
 - 🌱 Re-learning p5.js to chill out, Go for work, and Python for Blender art.
